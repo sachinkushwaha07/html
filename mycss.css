@@ -1,0 +1,23 @@
+table, th, td {
+  border: 1px solid black;
+}
+body {
+  background-color: #a0929c;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #6d174c;
+  color: white;
+  font-style: italic;
+  font-size: 30px;
+}
+.name{
+  color: blue;
+}
+.footer {
+  text-align: center;
+  padding: 30px;
+  background-color: rgb(219, 145, 201);
+  color: white;
+}
