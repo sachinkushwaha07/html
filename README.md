@@ -1,1 +1,65 @@
 # html
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+	<head>
+		<link rel="stylesheet" href="mycss.css">
+		</head>
+	<div class="header">
+	<header>
+		<h1>Sample resume of Application</h1>
+		<p class="name">Created by Sachin </p>
+	  </header>
+	</div>
+<title>cv</title>
+<h2> Profile </h2>
+<figure>
+<img src = "image.jpg" alt="Learner" width="200"  height="300">
+<figcaption>Facebook profile photo</figcaption>
+</figure>
+    <h4> Career Objective </h4>
+	<p> Always finding good opportunities for upgrading my skills.Searching for competative jobs to showcase my skills</p>
+	<h4> Details </h4> 
+	<ol>
+		<li>Name : Sachin</li>
+		<li>Branch : ISE </li>
+		<li>College : SVCE </li>
+	</ol>
+        <h4> Hobbies </h4>
+        <ul>
+               <li> Playing cricket </li>
+			   <li> Going to Adventure tours</li> 
+			   <h4>EDUCATIONAL DETAILS</h4> 
+			   <table style="width:100%">
+				<tr>
+				  <th>board</th>
+				  <th>level</th>
+				  <th>percentage</th>
+				</tr>
+				<tr>
+				  <td>State</td>
+				  <td>10TH</td>
+				  <td>89%</td>
+				</tr>
+				<tr>
+				  <td>CBSE</td>
+				  <td>12th</td>
+				  <td>75</td>
+				</tr>
+				<tr>
+					<td>University</td>
+					<td>B.E</td>
+					<td>75</td>
+				  </tr>
+			  </table>
+			  <br>
+			  <div class="footer">
+			  <footer>
+				<p>Developer:Sachk07<br>
+				<a href="https://mail.google.com/mail">sachin.p.kushbha@gmail.com</a></p>
+			  </footer>  
+			</div>
+</body>
+
+</html>
